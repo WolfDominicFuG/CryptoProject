@@ -7,7 +7,7 @@ i = [ord(c) for c in i]
 j = 0
 
 while i[j]:   
-  print chr(i[j] + j)
+  print chr(i[j] - j)
   j = j + 1
   
   else
