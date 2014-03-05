@@ -1,4 +1,5 @@
-i = "d:;7<k?9"
+#i = "d:;7<k?9"
+i = raw_input("Encrypted Password ")
 
 i = list(i)
   
